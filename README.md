@@ -1,8 +1,6 @@
 # Vuepress-theme-reco 新手指北之 Hello烤鸭
 效果预览
 ![](https://assets.smallsunnyfox.com/images/vuepress-theme-reco-starter-review.png)
-:::
-
 ## 安装vuepress
 
 [Vuepress中文网-指南-快速上手](https://www.vuepress.cn/guide/getting-started.html)
