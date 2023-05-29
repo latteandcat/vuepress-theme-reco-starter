@@ -1,16 +1,16 @@
 {
-  "name": "vuepress-theme-reco-starter",
+  "name": "myblog",
   "version": "1.0.0",
-  "description": "vuepress-theme-reco-starter",
+  "description": "myblog",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "author": "zsw",
+  "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "vuepress-plugin-permalink-pinyin": "^1.1.0",
-    "vuepress-theme-reco": "^1.6.16"
+    "vuepress-theme-reco": "^1.6.17"
   }
 }

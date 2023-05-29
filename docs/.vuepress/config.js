@@ -1,7 +1,7 @@
 module.exports = {
   theme: 'reco',
-  title: 'reco的美食分享博客',
-  description: '欢迎来到我的博客',
+  title: '我的美食分享博客',
+  description: '欢迎来到我的美食分享博客',
   // 移动端优化
   head: [['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]],
   // 主题设置
@@ -21,7 +21,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 项目开始时间
-    startYear: '2021',
+    startYear: '2023',
     // 导航栏配置
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
