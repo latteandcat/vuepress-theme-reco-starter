@@ -1,4 +1,4 @@
-# Vuepress-theme-reco@v1.x新手指北之Hello烤鸭
+# Vuepress-theme-reco-v1.x 新手指北之Hello烤鸭
 
 ## 初始化项目
 
