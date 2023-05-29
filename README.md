@@ -50,14 +50,14 @@ npm i vuepress-plugin-permalink-pinyin --save-dev
 │   │   │   └── bg.png(首页背景图)
 │   │   └── config.js(博客配置)
 │   ├── views
-│   │   └── 美食\2021\烤鸭.md(测试文章)
+│   │   └── 美食/2023/烤鸭.md(测试文章)
 │   └── README.md(首页配置)
 └── package.json
 ```
 
 ## 完善基础配置
 
-此处仅包含一些常用的基础配置
+此处仅包含一些常用的基础配置  
 详细配置和进阶功能请参考[主题文档](https://vuepress-theme-reco.recoluan.com/views/1.x/)
 
 ### docs/.vuepress/config.js
